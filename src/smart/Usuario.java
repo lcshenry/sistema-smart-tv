@@ -1,3 +1,7 @@
+package smart;
+
+import smart.SmartTV;
+
 public class Usuario {
     public static void main(String[] args) throws Exception {
         SmartTV smartTV = new SmartTV();

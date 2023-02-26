@@ -1,3 +1,5 @@
+package smart;
+
 public class SmartTV {
     boolean turnOn = false;
     int channel = 1;

@@ -1,4 +1,6 @@
- import java.util.Locale;
+package smart;
+
+import java.util.Locale;
  import java.util.Scanner;
 public class Conta {
 
